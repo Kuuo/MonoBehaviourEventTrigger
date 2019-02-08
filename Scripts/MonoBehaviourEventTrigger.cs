@@ -3,7 +3,6 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 
-[AddComponentMenu("Kore/Events/MonoBehaviourEventTrigger")]
 public class MonoBehaviourEventTrigger : MonoBehaviour
 {
     [SerializeField]
